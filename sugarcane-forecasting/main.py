@@ -1,4 +1,4 @@
-from scripts.pruebas import loader_data
+from pruebas import loader_data
 
 
 def main():
