@@ -1,0 +1,232 @@
+{
+  "SM_01": {
+    "name": "Adolfo Lopez Mateos",
+    "corp": "PIASA",
+    "state": "Oaxaca"
+  },
+  "SM_02": {
+    "name": "Alianza Popular",
+    "corp": "Santos",
+    "state": "San Luis Potosi"
+  },
+  "SM_03": {
+    "name": "Atencingo",
+    "corp": "Zucarmex",
+    "state": "Puebla"
+  },
+  "SM_04": {
+    "name": "Bellavista",
+    "corp": "Santos",
+    "state": "Jalisco"
+  },
+  "SM_05": {
+    "name": "Central Casasano",
+    "corp": "BSM",
+    "state": "Morelos"
+  },
+  "SM_06": {
+    "name": "Central El Potrero",
+    "corp": "BSM",
+    "state": "Veracruz"
+  },
+  "SM_07": {
+    "name": "Central La Providencia",
+    "corp": "BSM",
+    "state": "Veracruz"
+  },
+  "SM_08": {
+    "name": "Central Motzorongo",
+    "corp": "Motzorongo",
+    "state": "Veracruz"
+  },
+  "SM_09": {
+    "name": "Central Progreso",
+    "corp": "La Margarita",
+    "state": "Veracruz"
+  },
+  "SM_10": {
+    "name": "Central San Miguelito",
+    "corp": "BSM",
+    "state": "Veracruz"
+  },
+  "SM_11": {
+    "name": "Cia La Fe (Pujiltic)",
+    "corp": "Zucarmex",
+    "state": "Chiapas"
+  },
+  "SM_12": {
+    "name": "CIASA (Cuatotolapam)",
+    "corp": "Santos",
+    "state": "Veracruz"
+  },
+  "SM_13": {
+    "name": "Constancia",
+    "corp": "BSM",
+    "state": "Veracruz"
+  },
+  "SM_14": {
+    "name": "El Higo",
+    "corp": "Zucarmex",
+    "state": "Veracruz"
+  },
+  "SM_15": {
+    "name": "El Mante",
+    "corp": "Pantaleon",
+    "state": "Tamaulipas"
+  },
+  "SM_16": {
+    "name": "El Modelo",
+    "corp": "Porres",
+    "state": "Veracruz"
+  },
+  "SM_17": {
+    "name": "El Refugio",
+    "corp": "Motzorongo",
+    "state": "Oaxaca"
+  },
+  "SM_18": {
+    "name": "Emiliano Zapata",
+    "corp": "BSM",
+    "state": "Morelos"
+  },
+  "SM_19": {
+    "name": "Huixtla",
+    "corp": "Porres",
+    "state": "Chiapas"
+  },
+  "SM_20": {
+    "name": "Jose Maria Morelos",
+    "corp": "La Margarita",
+    "state": "Jalisco"
+  },
+  "SM_21": {
+    "name": "La Gloria",
+    "corp": "GAT",
+    "state": "Veracruz"
+  },
+  "SM_22": {
+    "name": "La Joya",
+    "corp": "GAT",
+    "state": "Campeche"
+  },
+  "SM_23": {
+    "name": "La Margarita",
+    "corp": "La Margarita",
+    "state": "Oaxaca"
+  },
+  "SM_24": {
+    "name": "Lazaro Cardenas",
+    "corp": "GAM",
+    "state": "Michoacan"
+  },
+  "SM_25": {
+    "name": "Mahuixtlan",
+    "corp": "Zucarmex",
+    "state": "Veracruz"
+  },
+  "SM_26": {
+    "name": "Melchor Ocampo",
+    "corp": "Zucarmex",
+    "state": "Jalisco"
+  },
+  "SM_27": {
+    "name": "Panuco",
+    "corp": "Pantaleon",
+    "state": "Veracruz"
+  },
+  "SM_28": {
+    "name": "Pedernales",
+    "corp": "Santos",
+    "state": "Michoacan"
+  },
+  "SM_29": {
+    "name": "Plan de Ayala",
+    "corp": "Santos",
+    "state": "San Luis Potosi"
+  },
+  "SM_30": {
+    "name": "Plan de San Luis",
+    "corp": "PIASA",
+    "state": "San Luis Potosi"
+  },
+  "SM_31": {
+    "name": "Presidente Benito Juarez",
+    "corp": "Santos",
+    "state": "Tabasco"
+  },
+  "SM_32": {
+    "name": "Puga",
+    "corp": "Puga",
+    "state": "Nayarit"
+  },
+  "SM_33": {
+    "name": "Queseria",
+    "corp": "BSM",
+    "state": "Colima"
+  },
+  "SM_34": {
+    "name": "San Cristobal",
+    "corp": "Zucarmex",
+    "state": "Veracruz"
+  },
+  "SM_35": {
+    "name": "San Francisco Ameca",
+    "corp": "BSM",
+    "state": "Jalisco"
+  },
+  "SM_36": {
+    "name": "San Jose de Abajo",
+    "corp": "Perno",
+    "state": "Veracruz"
+  },
+  "SM_37": {
+    "name": "San Miguel del Naranjo",
+    "corp": "BSM",
+    "state": "San Luis Potosi"
+  },
+  "SM_38": {
+    "name": "San Nicolas",
+    "corp": "ASR Group",
+    "state": "Veracruz"
+  },
+  "SM_39": {
+    "name": "San Pedro",
+    "corp": "Porres",
+    "state": "Veracruz"
+  },
+  "SM_40": {
+    "name": "San Rafael de Pucte",
+    "corp": "BSM",
+    "state": "Quintana Roo"
+  },
+  "SM_41": {
+    "name": "Santa Clara",
+    "corp": "Porres",
+    "state": "Michoacan"
+  },
+  "SM_42": {
+    "name": "Santa Rosalia",
+    "corp": "BSM",
+    "state": "Tabasco"
+  },
+  "SM_43": {
+    "name": "Serapio Group",
+    "corp": "Serapio Group",
+    "state": "Sinaloa"
+  },
+  "SM_44": {
+    "name": "Tala",
+    "corp": "GAM",
+    "state": "Jalisco"
+  },
+  "SM_45": {
+    "name": "Tamazula",
+    "corp": "Zucarmex",
+    "state": "Jalisco"
+  },
+  "SM_46": {
+    "name": "Tres Valles",
+    "corp": "PIASA",
+    "state": "Veracruz"
+  }
+}
